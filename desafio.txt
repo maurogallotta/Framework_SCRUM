@@ -1,0 +1,11 @@
+PORQUE O SCRUM FOI UTILIZADO?
+Scrum o Framework que exprime todo o seu potencial quando precisa de uma solução melhor para resolução de problema altamente complexos, os princípios deste framework ajudam o time a valorizar e agilizar o trabalho, reduzindo assim o tempo para a entrega final do projeto.
+
+PORQUE A ABORDAGEM ÁGIL FOI UTILIZADA E NÃO A ABORDAGEM TRADICIONAL?
+O motivo principal do utilizo deste framework está principalmente pela diferença da da entrega de valores, oltre que para rapidez em mostrar os resultados em cada etapa do processo e da criação do projeto, que atravez as várias cerimônias como a reuniões de planejamento, reuniões diária, de retrospectiva e de revisão. Que desta forma permite organizar e quantificar os progressos feitos, junto com que ainda precisa ser feito. Podendo assim entregar a cada sprint um pedaço da solução para conseguir finalizar o projeto no timebox definido no início da sprint,
+
+O RESULTADO FINAL ERA INOVADOR? PORQUE?
+Depois da integração com Scrum o product backlog foi melhorado conforme o planejado no início de cada sprint, desta forma foi avançando na evolução de cada passo, podendo assim explorar, visualizar e testar ele em cada etapa da sua criação. Desta forma, através das reuniões diárias, conseguimos focar e ver como conseguir inovar o produto experimentando a solução a cada etapa para render o produto mais inovador possível, adicionando funções inovadoras e concluído o software de um forma que foi além do combinado.
+
+QUAL A DIFICULDADE DE TRANSFORMAR UMA EMPRESA TRADICIONAL EM ÁGIL?
+A dificuldade principal está na mudança dos métodos de trabalho, isso às vezes pode gerar uma forte resistência da parte dos gerentes, que não está acostumado e não tem uma visão aberta às mudanças nas rotinas de trabalho, por isso às vezes esta mudança pode ser drástica. Mas para algumas situações como as mais complexas, típico do Scrum pode ser incredibilmente eficaz. Por isso é muito importante iniciar um caminho constante e contínuo que permita de transformar aos pouco mas de forma constante e contínua a mentalidade de apoio da empresa. Para assim se direcionar na direção mais ágil e eficaz.

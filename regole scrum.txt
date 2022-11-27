@@ -1,0 +1,241 @@
+SPRINT (IDEAS TRANFORMATAS EM VALORES) DE 1 até 4 semanas (default 2)
+SPRINT PLANNING (PORQUE, O QUE PODEMOS FAZER, COMO SERÁ REALIZADO O TRABALHO) 2 horas por semaana
+DAILY SCRUM () 15 minutos por dia
+SPRINT REVIEW (REVISÃO) 1 hora por semana
+SPRINT RETROSPECTIVE (RETROSPECTIVA) 45 min por semana 
+TIME BOX (TEMPO DETERMINADO EM CADA EVENTO)
+
+ler scrum giude 
+SCRUM
+Pensiero learn
+
+Il framework Scrum è volutamente incompleto e si limita a definire le parti necessarie per implementare la teoria di Scrum. Scrum è fondato sull'intelligenza collettiva delle persone che lo usano. Piuttosto che fornire alle persone istruzioni dettagliate, le regole di Scrum guidano le loro relazioni ed interazioni
+
+Processi, tecniche e metodi vari possono essere utilizzati all’interno del framework. Scrum comprende pratiche esistenti per renderle non più necessarie. Scrum rende visibile l'efficacia relativa dell'attuale gestione, ambiente e tecniche di lavoro affinché i miglioramenti possano essere apportati
+
+Scrum utilizza un approccio iterativo ed incrementale per ottimizzare la predittività e controllare il rischio. Scrum coinvolge gruppi di persone che, collettivamente, dispongono di tutte le competenze ed esperienze per eseguire il lavoro e condividere o acquisire tali competenze al bisogno.
+
+Scrum combina quattro eventi formali per l’ispezione e l’adattamento all’interno di un evento che li contiene, lo Sprint. Questi eventi funzionano perché implementano i pilastri empirici di Scrum: trasparenza, ispezione e adattamento.
+
+Trasparenza
+Il processo ed il lavoro emergenti devono essere visibili sia a coloro che svolgono il lavoro che a quelli che ne beneficiano. Impiegare Scrum significa che le decisioni importanti sono basate sulla percezione
+4
+dello stato dei suoi artefatti formali. Artefatti con un basso livello di trasparenza possono portare a decisioni che riducono il valore ed aumentano i rischi.
+La trasparenza permette l’ispezione. L’ispezione senza trasparenza è fuorviante e genera spreco.
+
+Ispezione
+Gli artefatti di Scrum e l’avanzamento verso gli obiettivi concordati devono essere ispezionati frequentemente e diligentemente, per rilevare deviazioni o problemi indesiderati. Per agevolare l’ispezione, Scrum fornisce una cadenza sotto forma dei suoi cinque eventi.
+L’ispezione consente l'adattamento. Un’ispezione senza adattamento è considerata inutile. Gli eventi di Scrum sono concepiti per suscitare il cambiamento.
+
+Adattamento
+Se qualunque aspetto di un processo devia al di fuori dei limiti accettabili o se il prodotto risultante è inaccettabile, il processo applicato o i materiali prodotti devono essere adattati. L'adattamento deve essere effettuato il più presto possibile per ridurre al minimo ulteriori deviazioni.
+L'adattamento diventa più difficile quando alle persone coinvolte non è data l'autorità necessaria o quando non sono autogestite. Ci si aspetta che uno Scrum Team si adatti nel momento in cui apprende qualcosa di nuovo attraverso l'ispezione.
+
+I Valori di Scrum
+Il successo nell'impiego di Scrum dipende dalla capacità delle persone di diventare più abili a vivere cinque valori:
+Impegno, Focus, Apertura, Rispetto e Coraggio
+
+I membri dello Scrum Team imparano ed esplorano tali valori nel lavorare con gli eventi e gli artefatti di Scrum. Quando questi valori sono
+5
+incarnati dallo Scrum Team e dalle persone che lavorano con loro, i pilastri empirici di Scrum - trasparenza, ispezione e adattamento - prendono vita, creando fiducia.
+
+All’interno dello Scrum Team non ci sono sottogruppi o gerarchie. È un’unità coesa di professionisti concentrati su un unico obiettivo alla volta, il Product Goal.
+
+Se lo Scrum Team diventa molto grande i membri del team potrebbero decidere di riorganizzarsi in più Scrum Team coesi, ognuno dei quali concentrato sullo stesso prodotto. Per questo motivo i membri del team dovrebbero condividere lo stesso Product Goal, Product Backlog e Product Owner.
+
+O Scrum Team é responsável por todas as atividades relacionadas ao produto, desde a colaboração com stakeholder, verificação, manutenção, operação, experimentação, pesquisa e desenvolvimento, e qualquer outra coisa que possa ser necessária.
+
+Todo o Scrum Team é responsável por criar um Incremento valioso e útil a cada Sprint. Scrum define três responsabilidades específicas dentro do Scrum Team: os Developers, o Product Owner e o Scrum Master.
+
+L’intero Scrum Team è responsabile nel creare un Increment utile e di valore ad ogni Sprint. Scrum definisce tre specifiche responsabilità all’interno dello Scrum Team: i Developer, il Product Owner e lo Scrum Master.
+I Developer
+I Developer sono le persone all’interno dello Scrum Team che hanno il compito di creare qualsiasi aspetto di un Increment usabile ad ogni Sprint.
+Le caratteristiche specifiche necessarie ai Developer sono spesso trasversali e varieranno in base al dominio del lavoro. Comunque, i Developer, sono sempre responsabili di:
+● creare una pianificazione per lo Sprint, lo Sprint Backlog;
+● instillare la qualità aderendo ad una Definition of Done;
+● adattare quotidianamente la pianificazione allo Sprint Goal;
+● ritenersi reciprocamente responsabili come professionisti.
+
+Il Product Owner
+Il Product Owner è responsabile nel massimizzare il valore del prodotto risultante dal lavoro svolto dallo Scrum Team. Come questo venga fatto può variare molto dall’organizzazione, dagli Scrum Team e dagli individui.
+Il Product Owner è anche responsabile per l’effettiva gestione del Product Backlog, che include:
+● sviluppare e comunicare esplicitamente il Product Goal;
+● creare e comunicare chiaramente gli elementi del Product Backlog;
+● ordinare gli elementi del Product Backlog;
+● assicurarsi che il Product Backlog sia trasparente, visibile e chiaro.
+Il Product Owner può fare tutte le attività sopra indicate oppure può delegare l’incarico ad altri
+Affinchè i Product Owner possano agire con successo all’interno dell’organizzazione tutti devono rispettare le loro decisioni. Queste decisioni sono visibili nei contenuti e nell’ordine delle priorità del Product Backlog e attraverso l’ispezione dell’Increment durante la Sprint Review.
+Il Product Owner è una singola persona e non un gruppo. il Product Owner può esprimere la volontà di diversi stakeholder nel Product Backlog. Coloro che volessero modificare il Product Backlog possono farlo provando a convincere il Product Owner.
+
+Lo Scrum Master
+Lo Scrum Master è responsabile di promuovere Scrum così com’è definito nella Guida Scrum. Per far questo egli aiuta tutti a comprendere la teoria e le pratiche Scrum, sia all’interno dello Scrum Team che all’interno dell’organizzazione.
+Lo Scrum Master è responsabile dell’efficacia dello Scrum Team. Questo viene fatto permettendo allo Scrum Team di migliorare le proprie pratiche, definite nel framework Scrum.
+Gli Scrum Master sono dei veri leader al servizio dello Scrum Team e dell’organizzazione in generale.
+7
+Lo Scrum Master offre un servizio allo Scrum Team in diversi modi, fra i quali:
+● allenare i membri del team all’autogestione e alla cross-funzionalità;
+● aiutare lo Scrum Team a concentrarsi nel creare Increment di grande valore che incontrino la Definition of Done;
+● eliminare gli impedimenti all’avanzamento dello Scrum Team;
+● assicurare che tutti gli eventi Scrum siano svolti in maniera positiva, produttiva e che siano mantenuti entro i limiti temporali (timebox).
+Lo Scrum Master fornisce un servizio al Product Owner in diversi modi, fra i quali:
+● aiutarlo nel trovare tecniche per la definizione efficace del Product Goal e per la gestione del Product Backlog;
+● aiutare lo Scrum Team a comprendere il bisogno di elementi del Product Backlog chiari e concisi;
+● aiutare a stabilire una pianificazione empirica del prodotto per un contesto complesso;
+● facilitare la collaborazione con gli stakeholder se richiesto o necessario.
+Lo Scrum Master fornisce un servizio all'organizzazione in diversi modi, fra i quali:
+● guidare, formare ed assistere l’organizzazione nell’adozione di Scrum;
+● pianificare e consigliare l’implementazione di Scrum all’interno dell’organizzazione;
+● aiutare i dipendenti e gli stakeholder a comprendere ed attuare un approccio empirico per il lavoro complesso;
+● rimuovere le barriere fra gli stakeholder e gli Scrum Team.
+
+Gli Eventi Scrum
+Lo Sprint è un contenitore per tutti gli altri eventi. Ogni evento in Scrum è un'occasione formale per ispezionarne e adattarne gli artefatti. Questi eventi sono specificamente progettati per apportare la trasparenza richiesta. La mancata messa in opera di qualsiasi evento come prescritto comporta la perdita di opportunità di ispezione e adattamento. Gli eventi sono utilizzati in Scrum per creare regolarità e per ridurre al minimo la necessità di riunioni non definite in Scrum. In modo ottimale, tutti gli eventi si svolgono nello stesso momento e luogo per ridurre la complessità.
+Lo Sprint
+Gli Sprint sono il cuore pulsante di Scrum, dove le idee sono trasformate in valore.
+Sono eventi di durata fissa di un mese o meno per creare coerenza. Un nuovo Sprint inizia subito dopo la conclusione dello Sprint precedente.
+Tutto il lavoro necessario per raggiungere il Product Goal, inclusi lo Sprint Planning, i Daily Scrum, la Sprint Review e la Sprint Retrospective, si svolge all'interno degli Sprint.
+8
+Durante lo Sprint:
+● non sono apportate modifiche che potrebbero mettere a repentaglio lo Sprint Goal;
+● la qualità non diminuisce;
+● il Product Backlog viene perfezionato in base alle necessità;
+● l’ambito (“scope”) può essere chiarito e rinegoziato con il Product Owner man mano che si apprende di più.
+Gli Sprint favoriscono la prevedibilità garantendo l'ispezione e l'adattamento dei progressi verso un Product Goal almeno ogni mese. Si può verificare che quando l'orizzonte di uno Sprint è troppo lungo, lo Sprint Goal possa diventare non più valido e che la complessità ed il rischio aumentino. Sprint più brevi possono essere impiegati per generare più cicli di apprendimento e limitare il rischio di costi e d’impegno ad un periodo di tempo di più breve durata. Ogni Sprint può essere considerato un breve progetto.
+Esistono varie pratiche per prevedere l’avanzamento, come i burn-down, i burn-up o i flussi cumulativi. Pur dimostrandosi utili, questi non sostituiscono l'importanza dell'empirismo. In ambienti complessi, cosa accadrà è sconosciuto. Solo ciò che è già accaduto può essere utilizzato per un processo decisionale orientato al futuro.
+Uno Sprint potrebbe essere annullato se lo Sprint Goal diventa obsoleto. Solo il Product Owner ha l'autorità di annullare lo Sprint.
+Lo Sprint Planning
+Lo Sprint Planning dà il via allo Sprint, stabilendo il lavoro da svolgere durante lo stesso. Il piano che ne risulta è frutto del lavoro collaborativo di tutto lo Scrum Team.
+Il Product Owner assicura che i partecipanti siano pronti a discutere dei più importanti elementi del Product Backlog e di come si posizionano rispetto al Product Goal. Lo Scrum Team può anche
+invitare altre persone a partecipare allo Sprint Planning per fornire consigli.
+Lo Sprint Planning tratta i seguenti argomenti:
+Argomento uno: perché questo Sprint è di valore?
+Il Product Owner propone come il prodotto potrebbe aumentare il suo valore e la sua utilità nell’attuale Sprint. L'intero Scrum Team collabora poi per definire uno Sprint Goal in grado di comunicare il motivo per cui lo Sprint è di valore per gli stakeholder. Lo Sprint Goal deve essere finalizzato
+prima della fine dello Sprint Planning.
+Argomento due: cosa si può fare in questo Sprint?
+Attraverso la discussione con il Product Owner, i Developer selezionano gli elementi del Product
+9
+Backlog da includere nell'attuale Sprint. Lo Scrum Team può perfezionare questi elementi durante questo processo, il che aumenta la comprensione e la fiducia.
+La selezione di quanto può essere completato all'interno di uno Sprint può essere impegnativa. Tuttavia, più i Developer conoscono le loro performance precedenti, la loro capacità futura e la loro
+Definition of Done, più saranno fiduciosi nelle loro previsioni di Sprint.
+Argomento tre: come si svolgerà il lavoro scelto?
+Per ogni elemento del Product Backlog selezionato, i Developer pianificano il lavoro necessario per creare un Increment che soddisfi la Definition of Done. Questo viene spesso fatto decomponendo gli elementi del Product Backlog in elementi di lavoro più piccoli della durata di un giorno o meno. Come questo viene fatto è a sola discrezione dei Developer. Nessun altro dice loro come trasformare gli elementi del Product Backlog in Increment di valore.
+Lo Sprint Goal, gli elementi del Product Backlog selezionati per lo Sprint, più il piano per la loro consegna sono insieme indicati come lo Sprint Backlog.
+Lo Sprint Planning è limitato ad un massimo di otto ore per uno Sprint di un mese. Per Sprint più brevi, l’evento è solitamente più breve.
+
+....................Cambiamenti della Guida Scrum 2020 rispetto alla Guida Scrum 2017
+Ancora meno prescrittiva
+Nel corso degli anni la Guida Scrum ha iniziato ad essere un po’ troppo prescrittiva. La versione 2020 ha come obiettivo quello di riportare lo Scrum ad essere un framework sufficientemente minimale rimuovendo o attenuando il linguaggio prescrittivo. Per esempio sono state rimosse le domande del Daily Scrum, è stato ammorbidito il linguaggio relativo agli attributi dei PBI e il linguaggio relativo ai retro elementi nello Sprint Backlog, è stata accorciata la sezione relativa alla cancellazione dello Sprint e altro.
+
+Un team, concentrato su un prodotto
+L’obiettivo era quello di eliminare il concetto di un team separato all’interno di un team, che portava ad un comportamento fra PO e Team di Sviluppo del tipo “proxy” o “noi e loro”. Ora c’è solo uno Scrum Team concentrato sullo stesso obiettivo, con tre differenti gruppi di responsabilità: PO, SM e Developers.
+Introduzione del Product Goal.
+
+La Guida Scrum 2020 introduce il concetto di Product Goal per focalizzare lo Scrum Team su un obiettivo più ampio e prezioso. Ogni Sprint dovrebbe avvicinare il prodotto al Product Goal globale.
+
+Una “casa” per lo Sprint Goal, la Definition of Done e il Product Goal
+Le precedenti Guide Scrum descrivono lo Sprint Goal e la Definition of Done senza dare loro una vera identità. Questi non erano dei veri e propri artefatti ma qualcosa di collegato agli artefatti. Con l’aggiunta del Product Goal, la versione 2020 fornisce maggiore chiarezza a riguardo. Ognuno dei tre artefatti ora contiene ‘commitments’ (impegni) nei loro confronti. Per il Product Backlog è il Product Goal, per lo Sprint Backlog è lo Sprint Goal e per l’Increment è la Definition of Done (adesso senza virgolette). Questi esistono per fornire trasparenza e focus sui progressi di ogni artefatto.
+
+Autogestione più che auto-organizzazione
+Le precedenti Guide Scrum si riferivano ai Team di Sviluppo come auto-organizzati, che scelgono chi e come fare il lavoro. Con maggiore attenzione sullo Scrum Team la versione 2020 enfatizza l’autogestione dello Scrum Team che sceglie chi, come e su cosa lavorare.
+
+Tre argomenti dello Sprint Planning
+In aggiunta agli argomenti dello Sprint Planning “Cosa” e “Come”, la Guida Scrum 2020 pone l’accento su un terzo argomento, “Perché”, facendo riferimento allo Sprint Goal.
+
+Semplificazione complessiva del linguaggio per un pubblico più ampio
+La Guida Scrum 2020 pone l’attenzione sull’eliminazione di frasi ridondanti e complesse nonché sulla rimozione di qualsiasi interferenza rimanente relativa al lavoro IT (per esempio test, sistema, progettazione, requisito, ecc.). La Guida Scrum conta adesso meno di 13 pagine (versione inglese).
+
+
+CAI NA PROVA
+
+Papeis do SCRUM (Team SCRUM tem PRODUCT OWNER, DEVELOPER, SCRUM MASTER)
+
+Tamanho da sprint curto suficiente para entregar mais valor e diminuir o risco
+
+Baseado no empirismo (aprendo, melhoro e faço) >>>SIM<<<
+
+não é teilored(sob medida) >>>NÃO<<<
+
+SPRINT REVIEW e uma reunião informal(precisa ser abertos)
+
+SCRUM NÃO E UMA METODOLOGIA E UM FRAMEWORK
+
+SCRUM OS 3 PILARES - TRANSPARENCIA sem distração , INSPEÇÃO E ADAPTAÇÃO 
+
+TRANSPARENCIA - 
+
+ADAPTAÇÃO - OS 4 TIPO DE EVENTOS - (PLANING, REVIEW(E FORMAL NO SCRUM, MAS E UM EVENTO INFORMAL), RETROSPECTIVA E DAILY
+
+INSPECSÃO DE ARTEFATO - PRODUCT BACK LOG, SPRING BACK LOG, DEFINITION THINK E O PROGRESSO
+
+PRODUCT BACKLOG e responsabilidade do Product owner e precisa ser transparente a todos e vivo até que seja vivo o produto e pode ser modificado em qualquer momento 
+
+SPRINT BACKLOG plano do developer team para sprint( são todas as tarefas para integrar os item do backlog e adaptavel
+
+SPRINT PLANING são selecionados os item do backlog
+
+USER HISTORY nao faz parte do Scrum
+
+PRODUCT OWNER(PO) = CONTENUTO, PRIORIZAÇÃO E DISPONIBILIZAÇÃO ( E 1 PESSOA SÓ)
+
+REQUISITOS FUNCIONAIS SÃO VISIVEIS
+
+REQUISITOS NÃO FUNCIONAIS SÃO ESCONDIDOS (MAS NÃO MENOS IMPORTANTES
+
+ITEM INCOMPLETO voltam no Backlog e quem decide e o PO
+
+O SPRINT SÃO SEQUENCIAL NAO TEM INTERVALO, E POTENCIALMENTE ENTREDGUE
+
+SCRUM ESCALAVEL (1 PRODUTO = 1 PRODUCT BACKLOG = 1 PO = 1 DEFINITION OF DONE) = 1 PRODUTO PARA 1 PO
+
+DEFINITION OF DONE precisa ser comun a todos os team
+
+2 opçoes
+1) 1 po para todos produtos
+2) 1 po para um produto
+
+checklist para considerar pronto cada produto para ser transparente
+
+para definition of done pode esistir um minimo ad empresa
+
+-----------------------------------------------------------------------------------------
+2 ponto importates
+pilares e valores
+PILARES : 
+TRASPARENCIA. INSPEÇÃO E ADAPTAÇÃO
+
+VALORES : 
+COMPROMISSO, FOCO, ABERTURA, RESPEITO E CORAGEM
+
+GERENCIAMENTO DE PROJETO : 
+COMPARAR ENTRE: ÁGIL x MODELO TRADICIONAL CASCATA(WATERFALL)
+
+SCRUM: (EM CADA SPRINT)
+1) PLANEJAR E ESTIMAR
+2) IMPLMENTAR
+3) REVISÃO E RETROSPECTIVA
+NO FINAL FAZER UMA RELEASE
+
+ÁGIL(SCRUM) : PLANEJAMENTO POR SPIRNT, DESENVOLVIMENTO ITERATIVO E INCREMENTAL E VALOR ENTREGUE CONTINUATAMENTE
+
+PARA PROJETOS TRADICIONAIS
+(MODELO CASCATA) : ANÁLISE, ELABORAÇÃO DO PROJETO(DESIGN), IMPLEMENTAÇÃO), TESTE, E ENTREGA E MANUTENÇÃO
+(MODELO CASCATA) PLANEJAMENTO INICIAL - ESCOPO, CUSTO, CRONOGRAMA E VALOR ENTREGUE NO FINAL
+
+
+SCRUM (DEFINIÇÃO):
+SCRUM É UM FRAMEWORK leve que ajuda pessoas, time e organizações a gerar vaalor por meio de soluções ADAPTATIVAS para PROBLEMAS COMPLEXOS.
+
+SCRUM METODOLOGIA OU FRAMEWORK?
+METODOLOGIA : Forneçe tudo que for necessario para criação de um projeto(piú completa) 
+PORQUE, 
+O QUE TENQUE SER FEITO E 
+COMO FAZER DE FORMA DETALHADA
+
+FRAMEWORK : Qual o caminho que o trabalho precisa seguir sem falar como fazer para assim dar espaço a ineteegração de outras processos(esqueletro)
+
+PORQUE, 
+O QUE TENQUE SER FEITO E 
+COMO DE FORMA MINIMAL
+
+
+RESPONSABILI DEI TEAM PASSANO A SER PRODUCT OWNER
